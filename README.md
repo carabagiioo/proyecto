@@ -21,3 +21,4 @@ La aplicación proporciona varios controles interactivos (botones y casillas de 
 - **Pandas**: Para la manipulación y lectura de los datos en formato CSV.
 - **Plotly (Express y Graph Objects)**: Para la creación de gráficos dinámicos e interactivos.
 - **Streamlit**: Para el despliegue rápido de la interfaz web.
+- **Render**: Para el despliegue de la aplicación web. (https://proyecto-0u2r.onrender.com)
